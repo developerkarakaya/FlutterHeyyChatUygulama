@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339830017599",
+    "project_id": "whatshapchat-a134e",
+    "storage_bucket": "whatshapchat-a134e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339830017599:android:37f219fdf4eaa24a27728a",
+        "android_client_info": {
+          "package_name": "com.wcrop.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339830017599-r2fj5pk2eobrsu4g31848236rvpuo83q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9AOoLXFPWx51RshueBztIJdTOt0FmMPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339830017599-r2fj5pk2eobrsu4g31848236rvpuo83q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
